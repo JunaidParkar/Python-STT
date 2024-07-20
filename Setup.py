@@ -19,7 +19,7 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: Boost Software License 1.0 (BSL-1.0)',
-        'Operating System :: Windoes',
+        'Operating System :: OS Independent',
     ],
     python_requires='>=3.6',
     project_urls={

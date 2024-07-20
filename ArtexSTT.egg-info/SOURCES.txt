@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+ArtexSTT/STT.py
+ArtexSTT/__init__.py
+ArtexSTT.egg-info/PKG-INFO
+ArtexSTT.egg-info/SOURCES.txt
+ArtexSTT.egg-info/dependency_links.txt
+ArtexSTT.egg-info/requires.txt
+ArtexSTT.egg-info/top_level.txt
